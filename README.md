@@ -10,3 +10,6 @@ https://navisec.it/
 ### Hashing 
 https://www.cmd5.com/  
 http://www.xmd5.org/  
+### Decompile
+http://javare.cn/  # java file decompile
+

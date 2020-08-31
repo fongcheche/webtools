@@ -1,6 +1,8 @@
 import PIL
 from PIL import Image
 
+// 将01字符串转为二维码，之后可用 QR Research程序 识别
+
 MAX = 60
 img = Image.new("RGB",(MAX,MAX)) 
 i = 0
